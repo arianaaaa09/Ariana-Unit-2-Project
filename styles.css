@@ -1,0 +1,28 @@
+
+/* The code on lines 3-7 makes the background of the header black and the text of the title of the webpage white. Change this to match what you want for your website! */
+header {
+    background-color: lavender;
+    color: grey;
+    padding: 128px 16px;
+    border: 10px;
+    border-style: solid;
+    border-color: darkgrey;
+}
+h1 {
+    text-align: center;
+color: grey;
+        border: 10px;
+    border-style: solid;
+    border-color: darkgrey;
+}
+h1 { background-color: lavender;}
+h4 { color: grey; }
+
+img {width: 50px;
+width: 50%;
+font-size: 20px;
+} 
+.section {
+    font-family: "Book Antiqua";
+}
+
